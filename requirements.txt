@@ -1,0 +1,9 @@
+yt-dlp
+selenium
+pandas
+schedule
+openpyxl
+tqdm
+moviepy
+pydub
+flask
